@@ -1,15 +1,25 @@
 <!DOCTYPE html>
 <html>
+
 <head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
   <title>Discord Token Manager</title>
   <link rel="stylesheet" type="text/css" href="popup.css">
   <script src="popup.js"></script>
 </head>
+
 <body>
   <h1>Discord Token Manager</h1>
-  <input type="text" id="tokenInput" placeholder="Enter token">
-  <button id="addToken">Add Token</button>
+  <div class="form__group field">
+    <input type="text" class="form__field" id="tokenInput" placeholder="Enter token">
+    <label for="name" class="form__label">Token</label>
+  </div>
+  <br>
+  <button class="button-6" id="addToken">Add Token</button>
   <h2 id="totalTokens">Stored Tokens</h2>
   <ul id="tokenList"></ul>
 </body>
+
 </html>
