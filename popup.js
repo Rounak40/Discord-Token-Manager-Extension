@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
             var localUserInfo = {
                 token:newToken,
                 username: formattedUsername,
-                avatarURL: `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}.webp?size=20`,
+                avatarURL: `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}.webp?size=256`,
               }
             
             if (userInfo.avatar == null) {
