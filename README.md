@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Discord Token Manager Chrome Extension</h1>
 
-<p align="center"><img src="https://camo.githubusercontent.com/f0fd44b5223e05e710757fdc76eff726fbb79874be973d739c44e0d4a81c1c17/68747470733a2f2f7777772e637573746f6d72702e78797a2f6173736574732f6c6f676f2e706e67" alt="project-image"></p>
+<p align="center"><img src="https://exportcomments.com/resources/content/images/2020/07/y6rc2sm425051.jpg" alt="project-image"></p>
 
 <p id="description">The Discord Token Manager Chrome Extension is a useful tool designed to simplify the process of storing logging in and switching between Discord accounts quickly. This extension allows users to manage their Discord tokens efficiently enabling seamless transitions between different Discord IDs.</p>
 
